@@ -1,0 +1,15 @@
+img.responsive-img {
+ max-width: 25%!important;
+ height: auto!important;
+}
+.margin-top{
+  margin-bottom: 10px!important;
+}
+.nav-header {
+    padding: 33px 25px;
+    background-color: #00bcd4;
+    background-image: url(patterns/2.png);
+}
+.letra-p{
+    color:white;
+}
